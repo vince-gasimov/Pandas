@@ -1,0 +1,43 @@
+
+Pandas = Panel Data System
+
+Feaures of Pandas
+  - Greate handeling of data
+  - clean up data
+  - multiple file formats support
+      - most of the time, we use csv
+  - merge and join various dataset
+  - handel missing dataoptimized performance
+  - allignment and indexing
+  - provides visualization
+      - data visualization
+      - tableau
+      - power BI
+
+
+pandas basci data structures, series for one dimension and DataFrame for 2 dimension and extremly useful and flexible tools
+
+Pandas is and open source libraru for data manipulation and analyisis in Python programming language
+
+Data structure              Dimensionality              Format
+--------------------------------------------------------------------------
+Series                      1D                          Column
+DataFrame                   3D                          Single Sheet
+Panel                       2D                          Multiple Sheets
+
+Pandas Series 
+built on top of NumPy array objects and they are very similar
+It is 1D labeled array that can hold data of any data type
+Label values are called indexes
+the data type intelf can consist of number, strings, or other Python objects
+lists, ordered array or dictionaries can be used to create series
+
+Series Index - row index
+Series Name - column name
+Series Values - data values
+
+DataFrame
+2d labeled data structure with rows and columns
+each column in DataFrame is Panda Series
+the data intels can consist of numbers, strings or other python objects
+lists, ordered array or dictionaries can be used to create series

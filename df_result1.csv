@@ -1,0 +1,6 @@
+name,salary,age,dept_HR,dept_IT,job_data analyst,job_data scientist,job_frontend developer,job_manager,job_recruiter
+Tyler Durden,180000,55.0,True,False,False,False,False,True,False
+Maria Puder,150000,28.0,False,True,True,False,False,False,False
+Dorothy Gale,120000,30.0,True,False,False,False,False,False,True
+Edmond Dantes,170000,,False,True,False,True,False,False,False
+Gregor Samsa,120000,32.0,False,True,False,False,True,False,False
